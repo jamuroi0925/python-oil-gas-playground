@@ -14,7 +14,11 @@ It will grow over time as part of my structured 30-day portfolio development pla
 
 ## 📁 Repository Structure
 
-
+├── data/               # Raw and cleaned well log, drilling, and reservoir datasets
+├── notebooks/          # Day-by-day exercises and exploratory analysis
+├── outputs/            # Plots, processed files, and generated results
+└── src/                # Reusable Python modules
+    └── __init__.py
 
 ---
 

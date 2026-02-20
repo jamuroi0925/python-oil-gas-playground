@@ -13,11 +13,7 @@ It will grow over time as part of my structured 30-day portfolio development pla
 ---
 
 ## 📁 Repository Structure
-data/ # Sample datasets (LAS, CSV, etc.)
-notebooks/ # Jupyter/PyCharm notebooks
-src/ # Python source code (modular scripts)
-outputs/ # Plot images, results, reports
-tests/ # Optional - unit tests
+
 
 
 ---
